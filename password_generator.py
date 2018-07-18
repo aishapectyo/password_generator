@@ -36,6 +36,6 @@ string.replace(my_string, "dank", "savage")
 string.join(my_string, "dankiest")
 
 #Test function
-]my_password = random_password_generator(length=8)
+my_password = random_password_generator(length=8)
 
 
